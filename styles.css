@@ -381,8 +381,8 @@ div.nwocrow button:hover{
     }
 
     .nwoc-img{
-     border: 2px solid black;
-     border-top: 3px solid black;
+        border: 2px solid black;
+        border-top: 3px solid black;
         background-color: white;
     }
 }
@@ -508,4 +508,56 @@ div.foot-row{
 /* video {
     width: 100%;
     height: auto;
-  } */
+} */
+
+.mgsoc-head{
+    font-family: 'Segoe UI', Arial;
+    font-weight: 700;
+    margin-top: 80px;
+    font-size: 50px;
+}
+
+.mgsoc-text{
+    font-family: 'Segoe UI', Arial;
+
+}
+
+.mgsoc-img{
+    display: block;
+    margin: 0 auto;
+}
+
+div.msgoc-yr{
+    text-align: left;
+}
+
+.tab-str{
+    border: 2px solid black;
+}
+
+.test{
+    background-color: silver;
+    border: 2px solid black;
+}
+
+.result-head{
+    font-family: 'Segoe UI', Arial;
+    font-weight: 700;
+    margin-top: -20px;
+    margin-bottom: 80px;
+    font-size: 50px;
+}
+
+.mgsoc-line{
+    width: 80%;
+    border: 1px solid rgb(139, 92, 4);
+    margin-top: 30px;
+}
+
+.post-line{
+    margin-bottom: 100px;
+}
+
+.pre-line{
+    margin-top: -40px;
+}
